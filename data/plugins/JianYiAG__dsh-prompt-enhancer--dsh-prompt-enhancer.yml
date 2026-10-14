@@ -1,5 +1,5 @@
-url: https://github.com/JianYiAG/dsh-prompt-enhancer
-name: JianYiAG/dsh-prompt-enhancer
+url: https://github.com/JianYiAG/dsh-prompt-enhancer/tree/main/dsh-prompt-enhancer
+name: JianYiAG/dsh-prompt-enhancer#dsh-prompt-enhancer
 category: ui
 description:
   en: 'Composer prompt enhancement for DeepSeek Harness: a button beside the model selector rewrites the draft through one auxiliary LLM call and writes the result back in place, with composer undo left intact; a /prompt-enhance slash command returns the rewritten prompt as a command result line without touching the draft; the enhancement call can be pinned to its own fast provider and model in the profile patch; the rewrite policy is faithful - original intent, language and information are kept, code, commands and paths are preserved verbatim, and nothing is invented or padded with placeholder text.'
